@@ -1,6 +1,6 @@
 <template>
   <div class="flex">
-    <div class="flex bg-gray-900">
+    <div class="flex bg-black">
       <div class="">
         <ul class="sticky top-0 font-mono">
           <li>

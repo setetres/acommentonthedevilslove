@@ -41,7 +41,7 @@ export default {
   // Loading
   loading: {
     color: '#000000',
-    failedColor: '#e02020',
+    failedColor: '#ef4444',
     throttle: 0,
   },
 

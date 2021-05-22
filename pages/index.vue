@@ -1,7 +1,7 @@
 <template>
   <div class="flex flex-col">
     <header
-      class="home bg-gray-700 flex flex-col flex-1 min-h-screen items-center justify-center overflow-hidden relative"
+      class="home bg-gray-800 flex flex-col flex-1 min-h-screen items-center justify-center overflow-hidden relative"
     >
       <div class="max-w-2xl space-y-8 z-10">
         <h1 class="font-extrabold italic text-8xl text-white mb-4">
