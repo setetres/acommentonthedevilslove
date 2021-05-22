@@ -5,7 +5,7 @@
 
 ::selection {
   /* background-color: rgba(16, 185, 129, .1); */
-  background-color: rgba(251, 191, 36, .1);
+  background-color: rgba(17, 24, 39, .5);
 }
 
 img {
@@ -24,6 +24,10 @@ body {
 
 .font-mono {
   font-family: 'Space Mono', monospace;
+}
+
+.nuxt-link-exact-active {
+  @apply text-white;
 }
 
 .image-01 {

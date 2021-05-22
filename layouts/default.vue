@@ -5,9 +5,8 @@
         <ul class="sticky top-0 font-mono">
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/"
-              active-class="link--active"
               exact
             >
               ##
@@ -15,9 +14,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/about"
-              active-class="link--active"
               exact
             >
               &&
@@ -25,9 +23,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/01"
-              active-class="link--active"
               exact
             >
               01
@@ -35,9 +32,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/02"
-              active-class="link--active"
               exact
             >
               02
@@ -45,9 +41,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/03"
-              active-class="link--active"
               exact
             >
               03
@@ -55,9 +50,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/04"
-              active-class="link--active"
               exact
             >
               04
@@ -65,9 +59,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/05"
-              active-class="link--active"
               exact
             >
               05
@@ -75,9 +68,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/06"
-              active-class="link--active"
               exact
             >
               06
@@ -85,9 +77,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/07"
-              active-class="link--active"
               exact
             >
               07
@@ -95,9 +86,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/08"
-              active-class="link--active"
               exact
             >
               08
@@ -105,9 +95,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/09"
-              active-class="link--active"
               exact
             >
               09
@@ -115,9 +104,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/10"
-              active-class="link--active"
               exact
             >
               10
@@ -125,9 +113,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/11"
-              active-class="link--active"
               exact
             >
               11
@@ -135,9 +122,8 @@
           </li>
           <li>
             <nuxt-link
-              class="flex text-2xl text-white px-8 py-2"
+              class="flex text-gray-400 hover:text-white px-8 py-4"
               to="/12"
-              active-class="link--active"
               exact
             >
               12
