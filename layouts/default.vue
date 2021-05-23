@@ -1,132 +1,139 @@
 <template>
   <div class="flex">
-    <div class="flex bg-black">
-      <div class="">
-        <ul class="sticky top-0 font-mono">
+    <div class="flex bg-black select-none">
+      <div>
+        <ul class="sticky top-0 font-mono text-sm">
+          <li>
+            <div
+              class="flex items-center justify-center text-gray-600 py-4 relative"
+            >
+              <span class="bg-black px-4 z-10">1973</span>
+            </div>
+          </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/"
               exact
             >
-              ##
+              <span class="bg-black px-4 z-10">##</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/about"
               exact
             >
-              &&
+              <span class="bg-black px-4 z-10">--</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/01"
               exact
             >
-              01
+              <span class="bg-black px-4 z-10">01</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/02"
               exact
             >
-              02
+              <span class="bg-black px-4 z-10">02</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/03"
               exact
             >
-              03
+              <span class="bg-black px-4 z-10">03</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/04"
               exact
             >
-              04
+              <span class="bg-black px-4 z-10">04</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/05"
               exact
             >
-              05
+              <span class="bg-black px-4 z-10">05</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/06"
               exact
             >
-              06
+              <span class="bg-black px-4 z-10">06</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/07"
               exact
             >
-              07
+              <span class="bg-black px-4 z-10">07</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/08"
               exact
             >
-              08
+              <span class="bg-black px-4 z-10">08</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/09"
               exact
             >
-              09
+              <span class="bg-black px-4 z-10">09</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/10"
               exact
             >
-              10
+              <span class="bg-black px-4 z-10">10</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/11"
               exact
             >
-              11
+              <span class="bg-black px-4 z-10">11</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4"
+              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
               to="/12"
               exact
             >
-              12
+              <span class="bg-black px-4 z-10">12</span>
             </nuxt-link>
           </li>
         </ul>
