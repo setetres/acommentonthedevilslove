@@ -275,6 +275,23 @@
               <span class="w-full z-10">Ⅻ</span>
             </nuxt-link>
           </li>
+          <li class="border-t-2 border-white">
+            <nuxt-link
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
+              to="/extras"
+              exact
+            >
+              <span class="w-full z-10">∅</span>
+            </nuxt-link>
+          </li>
         </ul>
       </div>
     </div>

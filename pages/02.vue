@@ -39,18 +39,14 @@
           <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                A disputatio concerning Hell, how it was created and fashioned;
+                concerning also the torments in Hell.
               </p>
             </div>
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Uma disputatio acerca do Inferno. como foi criado e formado; e
+                também sobre as torturas infernais.
               </p>
             </div>
           </div>
@@ -69,18 +65,70 @@
           <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                But there is no conceiving<br />
+                Of a time of hope in Hell.<br />
+                Nor in Earth, for that matter:<br />
+                Our hellish time has come.
+              </p>
+              <p class="leading-8">
+                Today we don't have any hope,<br />
+                We don't crave for it.
+              </p>
+              <p class="leading-8">
+                We want only sensible things,<br />
+                Better cloathing, better food and fornication.<br />
+                A bit more of love and peace, perheps,<br />
+                But hate and violence are also needed.
+              </p>
+              <p class="leading-8">
+                Sooner or later, our desires<br />
+                Shall be fulfilled - through war,<br />
+                Meditation or annihilation.<br />
+                Even Paradise will be found<br />
+                - as it should - in the supermarket.
+              </p>
+              <p class="leading-8">
+                We do not miss hope:<br />
+                It is the weak father<br />
+                Of short-lived dynamics.<br />
+              </p>
+              <p class="leading-8">
+                Isn't that lack of ambition,<br />
+                Or to say so is sinful proud?
               </p>
             </div>
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                But there is no conceiving<br />
+                Of a time of hope in Hell.<br />
+                Nor in Earth, for that matter:<br />
+                Our hellish time has come.
+              </p>
+              <p class="leading-8">
+                Today we don't have any hope,<br />
+                We don't crave for it.
+              </p>
+              <p class="leading-8">
+                We want only sensible things,<br />
+                Better cloathing, better food and fornication.<br />
+                A bit more of love and peace, perheps,<br />
+                But hate and violence are also needed.
+              </p>
+              <p class="leading-8">
+                Sooner or later, our desires<br />
+                Shall be fulfilled - through war,<br />
+                Meditation or annihilation.<br />
+                Even Paradise will be found<br />
+                - as it should - in the supermarket.
+              </p>
+              <p class="leading-8">
+                We do not miss hope:<br />
+                It is the weak father<br />
+                Of short-lived dynamics.<br />
+              </p>
+              <p class="leading-8">
+                Isn't that lack of ambition,<br />
+                Or to say so is sinful proud?
               </p>
             </div>
           </div>
