@@ -1,47 +1,72 @@
 <template>
-  <div class="flex flex-col">
-    <header
-      class="home bg-gray-800 flex flex-col flex-1 min-h-screen items-center justify-center overflow-hidden relative"
-    >
-      <div class="max-w-2xl space-y-4 z-10">
-        <h1 class="font-extrabold italic text-8xl text-white mb-4">
-          A comment on the Devil's love
-        </h1>
-        <div class="space-y-8 font-medium text-white">
-          <div class="text-5xl">
-            <p>"Twelve English Poems"</p>
-          </div>
-          <div class="text-2xl space-y-4 max-w-xs">
-            <p>These poems are respectfully dedicated to The Cheshire-Cat.</p>
-          </div>
-          <div class="text-lg">
-            <p>Brasília, Summer 1973.</p>
-            <p>Fausto Alvim Junior</p>
-          </div>
+  <section
+    class="
+      flex flex-col flex-1
+      min-h-screen
+      items-center
+      overflow-hidden
+      relative
+    "
+  >
+    <div class="max-w-4xl">
+      <div class="px-4 sm:px-6 lg:px-32">
+        <div class="text-xl space-y-8">
+          <h1>
+            <span
+              class="
+                block
+                text-base text-center text-purple-600
+                font-bold
+                tracking-wide
+              "
+              >A comment on the Devil's love</span
+            >
+            <span
+              class="
+                mt-2
+                block
+                text-3xl text-center
+                leading-8
+                font-extrabold
+                tracking-tight
+                text-gray-900
+                sm:text-4xl
+              "
+            >
+              Twelve English Poems
+            </span>
+          </h1>
         </div>
       </div>
-      <img class="top-0 absolute h-full" src="~/assets/images/home.png" />
-    </header>
-  </div>
+    </div>
+    <div class="p-16">
+      <img
+        src="~/assets/images/home.png"
+        class="w-full rounded-2xl pointer-events-none"
+      />
+    </div>
+    <div class="max-w-4xl">
+      <div class="px-4 sm:px-6 lg:px-32">
+        <div class="space-y-8">
+          <p class="text-xl leading-8 font-bold">
+            These poems are respectfully dedicated to The Cheshire-Cat.
+          </p>
+          <p class="text-xl leading-8">
+            Brasília, Summer 1973.<br />Fausto Alvim Junior
+          </p>
+        </div>
+      </div>
+    </div>
+  </section>
 </template>
 <script>
 export default {
-  components: {},
-
-  beforeRouteLeave(to, from, next) {
-    setTimeout(function () {
-      next()
-    }, 500)
-  },
-
   head() {
     return {
       title: "A comment on the Devil's love",
     }
   },
 
-  mounted() {
-    this.$nextTick(() => {})
-  },
+  mounted() {},
 }
 </script>

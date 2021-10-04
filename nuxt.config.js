@@ -1,19 +1,14 @@
 import tailwindConfig from './tailwind.config'
 
 export default {
-  // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
-
-  // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-
-  // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     htmlAttrs: {
       lang: 'en',
     },
     bodyAttrs: {
-      class: 'bg-white overflow-y-scroll min-h-screen',
+      class: 'bg-white overflow-y-scroll min-h-screen font-serif',
     },
     title: "A comment on the Devil's love",
     meta: [
@@ -32,47 +27,24 @@ export default {
       },
       {
         rel: 'stylesheet',
-        href:
-          'https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,800&family=Space+Mono&display=swap',
+        href: 'https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans&family=IBM+Plex+Serif&display=swap',
       },
     ],
   },
-
-  // Loading
   loading: {
     color: '#000000',
     failedColor: '#ef4444',
     throttle: 0,
   },
-
-  // Global CSS: https://go.nuxtjs.dev/config-css
   css: ['@/assets/css/application.css'],
-
-  // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [],
-
-  // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
-
-  // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
-    // https://go.nuxtjs.dev/stylelint
     '@nuxtjs/stylelint-module',
-    // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
   ],
-
-  // Modules: https://go.nuxtjs.dev/config-modules
-  modules: [
-    // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios',
-  ],
-
-  // Axios module configuration: https://go.nuxtjs.dev/config-axios
+  modules: ['@nuxtjs/axios'],
   axios: {},
-
-  // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {},
 }

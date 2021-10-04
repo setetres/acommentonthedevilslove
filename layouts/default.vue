@@ -1,139 +1,278 @@
 <template>
-  <div class="flex">
-    <div class="flex bg-black select-none">
+  <div class="flex px-16 pr-24 py-32">
+    <div class="flex bg-gray-100 rounded-2xl select-none">
       <div>
-        <ul class="sticky top-0 font-mono text-sm">
-          <li>
-            <div
-              class="flex items-center justify-center text-gray-600 py-4 relative"
-            >
-              <span class="bg-black px-4 z-10">1973</span>
-            </div>
-          </li>
+        <ul class="sticky top-0 font-mono font-bold text-base w-16">
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/"
               exact
             >
-              <span class="bg-black px-4 z-10">##</span>
+              <span class="w-full z-10">✹</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
-              to="/about"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
+              to="/prefacio"
               exact
             >
-              <span class="bg-black px-4 z-10">--</span>
+              <span class="w-full z-10">⊟</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
+              to="/noticia-bibliografica"
+              exact
+            >
+              <span class="w-full z-10">≋</span>
+            </nuxt-link>
+          </li>
+          <li class="border-b-2 border-white">
+            <nuxt-link
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
+              to="/dentro-e-fora-do-humano"
+              exact
+            >
+              <span class="w-full z-10">⊙</span>
+            </nuxt-link>
+          </li>
+          <li>
+            <nuxt-link
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/01"
               exact
             >
-              <span class="bg-black px-4 z-10">01</span>
+              <span class="w-full z-10">Ⅰ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/02"
               exact
             >
-              <span class="bg-black px-4 z-10">02</span>
+              <span class="w-full z-10">Ⅱ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/03"
               exact
             >
-              <span class="bg-black px-4 z-10">03</span>
+              <span class="w-full z-10">Ⅲ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/04"
               exact
             >
-              <span class="bg-black px-4 z-10">04</span>
+              <span class="w-full z-10">Ⅳ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/05"
               exact
             >
-              <span class="bg-black px-4 z-10">05</span>
+              <span class="w-full z-10">Ⅴ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/06"
               exact
             >
-              <span class="bg-black px-4 z-10">06</span>
+              <span class="w-full z-10">Ⅵ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/07"
               exact
             >
-              <span class="bg-black px-4 z-10">07</span>
+              <span class="w-full z-10">Ⅶ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/08"
               exact
             >
-              <span class="bg-black px-4 z-10">08</span>
+              <span class="w-full z-10">Ⅷ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/09"
               exact
             >
-              <span class="bg-black px-4 z-10">09</span>
+              <span class="w-full z-10">Ⅸ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/10"
               exact
             >
-              <span class="bg-black px-4 z-10">10</span>
+              <span class="w-full z-10">Ⅹ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/11"
               exact
             >
-              <span class="bg-black px-4 z-10">11</span>
+              <span class="w-full z-10">Ⅺ</span>
             </nuxt-link>
           </li>
           <li>
             <nuxt-link
-              class="flex text-gray-400 hover:text-white px-8 py-4 relative"
+              class="
+                flex
+                text-gray-400
+                hover:text-black
+                py-4
+                relative
+                w-full
+                text-center
+              "
               to="/12"
               exact
             >
-              <span class="bg-black px-4 z-10">12</span>
+              <span class="w-full z-10">Ⅻ</span>
             </nuxt-link>
           </li>
         </ul>
@@ -146,20 +285,12 @@
 </template>
 <script>
 export default {
-  beforeRouteLeave(to, from, next) {
-    this.$nextTick(() => {
-      next()
-    })
-  },
-
   head() {
     return {
-      title: 'Sete Três — Archive',
+      title: "A comment on the Devil's love",
     }
   },
 
-  mounted() {
-    this.$nextTick(() => {})
-  },
+  mounted() {},
 }
 </script>

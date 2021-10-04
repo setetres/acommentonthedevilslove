@@ -5,12 +5,18 @@ module.exports = {
     './pages/**/*.vue',
     './nuxt.config.{js,ts}',
   ],
-  darkMode: 'class', // or 'media' or 'class'
+  darkMode: 'class',
   theme: {
+    fontFamily: {
+      sans: '"IBM Plex Sans", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif',
+      serif:
+        '"IBM Plex Serif", ui-serif, Georgia, Cambria, "Times New Roman", Times, serif',
+      mono: '"IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace',
+    },
     extend: {},
   },
   variants: {
     extend: {},
   },
-  plugins: [],
+  plugins: [require('@tailwindcss/typography')],
 }
