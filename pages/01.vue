@@ -36,7 +36,7 @@
               Ⅰ
             </span>
           </h1>
-          <div class="grid grid-cols-2 gap-8">
+          <!-- <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
                 - "Do you consider love the strangest emotion?", he asked.<br />
@@ -58,7 +58,7 @@
                 - "Vamos chegar a um acordo sobre a definição!", ele riu.
               </p>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>

@@ -36,24 +36,6 @@
               Ⅳ
             </span>
           </h1>
-          <div class="grid grid-cols-2 gap-8">
-            <div class="space-y-8">
-              <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
-              </p>
-            </div>
-            <div class="space-y-8">
-              <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </div>
@@ -69,18 +51,46 @@
           <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Look thou to it.<br />
+                Look thou to Eternity,<br />
+                Look thou for the earned moment.
+              </p>
+              <p class="leading-8">
+                How easy is it get Immortality.<br />
+                Must we? Where lies the answer,<br />
+                To our riddle?
+              </p>
+              <p class="leading-8">
+                Perhaps not outside,<br />
+                Perhaps not in Heaven,<br />
+                Neither in Hell - woman's womb,
+              </p>
+              <p class="leading-8">
+                Never sated.<br />
+                Silence! We are talking<br />
+                Too much.
               </p>
             </div>
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Veja.<br />
+                Olhe a Eternidade,<br />
+                Procure pelo Momento vencido.
+              </p>
+              <p class="leading-8">
+                Quão fácil é ganhar Imortalidade.<br />
+                Devemos? Onde jaz a resposta,<br />
+                Ao nosso enigma?
+              </p>
+              <p class="leading-8">
+                Talvez não Fora,<br />
+                Talvez não no Céu,<br />
+                Nem no Inferno - útero de mulher,
+              </p>
+              <p class="leading-8">
+                Nunca saciado.<br />
+                Silêncio! Estamos falando<br />
+                Demais.
               </p>
             </div>
           </div>

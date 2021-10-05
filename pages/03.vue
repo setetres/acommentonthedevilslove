@@ -36,24 +36,20 @@
               Ⅲ
             </span>
           </h1>
-          <div class="grid grid-cols-2 gap-8">
+          <!-- <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                A disputatio concerning Hell, how it was created and fashioned;
+                concerning also the torments in Hell.
               </p>
             </div>
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Uma disputatio acerca do Inferno. como foi criado e formado; e
+                também sobre as torturas infernais.
               </p>
             </div>
-          </div>
+          </div> -->
         </div>
       </div>
     </div>
@@ -69,18 +65,84 @@
           <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Hell's origin and structure<br />
+                Is God's Wrath -<br />
+                Ah, that is Good!
+              </p>
+              <p class="leading-8">
+                We shout in joy<br />
+                To Heave, we are glad.<br />
+                For the Dies Irae.
+              </p>
+              <p class="leading-8">
+                We may bomb our napalm,<br />
+                We may set fire the houses,<br />
+                We rejoice in the Father's Hate.
+              </p>
+              <p class="leading-8">
+                Let us smash, burn, destroy,<br />
+                Let our hymn to Death be complete,<br />
+                Let us dance with Her,
+              </p>
+              <p class="leading-8">
+                Let us out ourselves in to pieces.<br />
+                That we make the damned<br />
+                Still more desperate -
+              </p>
+              <p class="leading-8">
+                It is fit to do so,<br />
+                For no damned soul will ever return<br />
+                To God's Big Hearth.
+              </p>
+              <p class="leading-8">
+                It is very nice,<br />
+                This and the Other World.<br />
+                There is always something to do.
+              </p>
+              <p class="leading-8">
+                How nice they meet,<br />
+                The Devil, He and Us.
               </p>
             </div>
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                A origem e a estrutura do Inferno<br />
+                É a fúria de Deus -<br />
+                Ah! Isto é bom!
+              </p>
+              <p class="leading-8">
+                Alegres, clamamos<br />
+                Aos Céus, estamos contentes.<br />
+                Pela Dies Irae.
+              </p>
+              <p class="leading-8">
+                Podemos lançar nosso napalm,<br />
+                Podemos incendiar as casas,<br />
+                Nos rejubilamos com o Ódio do Pai.
+              </p>
+              <p class="leading-8">
+                Arrazemos, queimamos, destruamos,<br />
+                Seja completo nosso hino à Morte,<br />
+                Dancemos com Ela,
+              </p>
+              <p class="leading-8">
+                Cortemo-nos em pedaços.<br />
+                Façamos os malditos<br />
+                Ainda mais desesperados -
+              </p>
+              <p class="leading-8">
+                É próprio assim cumprir,<br />
+                Pois nenhuma alma condenada jamais retornará<br />
+                Ao grande Coração de Deus.
+              </p>
+              <p class="leading-8">
+                São muito bonitos,<br />
+                Este e o Outro Mundo.<br />
+                Há sempre alguma coisa a fazer.
+              </p>
+              <p class="leading-8">
+                Lindamente se encontram,<br />
+                O Demônio, Ele e Nós.
               </p>
             </div>
           </div>

@@ -1,6 +1,6 @@
 <template>
   <div class="flex px-16 pr-24 py-32">
-    <div class="flex bg-gray-100 rounded-2xl select-none">
+    <div class="flex bg-gray-50 rounded-2xl select-none">
       <div>
         <ul class="sticky top-0 font-mono font-bold text-base w-16">
           <li>
@@ -71,7 +71,7 @@
               <span class="w-full z-10">⊙</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -88,7 +88,7 @@
               <span class="w-full z-10">Ⅰ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -105,7 +105,7 @@
               <span class="w-full z-10">Ⅱ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -122,7 +122,7 @@
               <span class="w-full z-10">Ⅲ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -139,7 +139,7 @@
               <span class="w-full z-10">Ⅳ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -156,7 +156,7 @@
               <span class="w-full z-10">Ⅴ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -173,7 +173,7 @@
               <span class="w-full z-10">Ⅵ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -190,7 +190,7 @@
               <span class="w-full z-10">Ⅶ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -207,7 +207,7 @@
               <span class="w-full z-10">Ⅷ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -224,7 +224,7 @@
               <span class="w-full z-10">Ⅸ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -241,7 +241,7 @@
               <span class="w-full z-10">Ⅹ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
@@ -258,7 +258,7 @@
               <span class="w-full z-10">Ⅺ</span>
             </nuxt-link>
           </li>
-          <li>
+          <li class="bg-gray-100">
             <nuxt-link
               class="
                 flex
