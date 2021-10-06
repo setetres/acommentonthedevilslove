@@ -12,8 +12,9 @@ img {
   user-select: none;
 }
 
-.nuxt-link-exact-active {
-  @apply text-black bg-white;
+.nuxt-link-exact-active,
+.nuxt-link-exact-active:hover {
+  @apply text-purple-600 bg-white;
 }
 
 .nuxt-link-exact-active span {

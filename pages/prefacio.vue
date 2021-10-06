@@ -125,9 +125,8 @@
             coerente para o conhecimento. Nesse sentido,
             <strong>
               nunca deixou de ser o matemático de origem, referência interna que
-              alimentou também sua aplicação a poesia
-            </strong>
-            , que um querido amigo comum, poeta de renome, invejava pela força.
+              alimentou também sua aplicação a poesia</strong
+            >, que um querido amigo comum, poeta de renome, invejava pela força.
           </p>
           <p class="leading-8">
             Mas as expedições exploratórias para fora do caminho mais ou menos
@@ -144,9 +143,9 @@
             <strong>São flashes, marcas de passagem</strong>, como na letra de
             música que fala de alguém que encontra alguém num sinal de trânsito,
             <strong>
-              imagens fracionadas, desconexas, quebradas, de vidas que se cruzam
-            </strong>
-            .
+              imagens fracionadas, desconexas, quebradas, de vidas que se
+              cruzam</strong
+            >.
           </p>
           <p class="text-gray-500 text-sm italic">Cláudio Weber Abramo</p>
         </div>
