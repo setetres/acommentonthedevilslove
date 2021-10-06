@@ -2,16 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@keyframes background-stripes {
-  0% {
-    background-position: 0 0;
-  }
-
-  100% {
-    background-position: 200px 36px;
-  }
-}
-
 ::selection {
   @apply bg-gray-100;
 }
@@ -29,13 +19,3 @@ img {
 .nuxt-link-exact-active span {
   @apply bg-white;
 }
-
-/* .nuxt-link-exact-active::before {
-  @apply bg-gray-900;
-  content: '';
-  height: 2px;
-  left: -100%;
-  position: absolute;
-  top: 50%;
-  width: 100%;
-} */

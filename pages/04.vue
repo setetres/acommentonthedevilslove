@@ -61,7 +61,7 @@
                 To our riddle?
               </p>
               <p class="leading-8">
-                Perhaps not outside,<br />
+                Perhaps not Outside,<br />
                 Perhaps not in Heaven,<br />
                 Neither in Hell - woman's womb,
               </p>
@@ -75,7 +75,7 @@
               <p class="leading-8">
                 Veja.<br />
                 Olhe a Eternidade,<br />
-                Procure pelo Momento vencido.
+                Procure pelo momento vencido.
               </p>
               <p class="leading-8">
                 Quão fácil é ganhar Imortalidade.<br />

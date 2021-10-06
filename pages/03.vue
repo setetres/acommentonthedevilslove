@@ -36,20 +36,6 @@
               Ⅲ
             </span>
           </h1>
-          <!-- <div class="grid grid-cols-2 gap-8">
-            <div class="space-y-8">
-              <p class="leading-8">
-                A disputatio concerning Hell, how it was created and fashioned;
-                concerning also the torments in Hell.
-              </p>
-            </div>
-            <div class="space-y-8">
-              <p class="leading-8">
-                Uma disputatio acerca do Inferno. como foi criado e formado; e
-                também sobre as torturas infernais.
-              </p>
-            </div>
-          </div> -->
         </div>
       </div>
     </div>
@@ -67,7 +53,7 @@
               <p class="leading-8">
                 Hell's origin and structure<br />
                 Is God's Wrath -<br />
-                Ah, that is Good!
+                Ah, that is good!
               </p>
               <p class="leading-8">
                 We shout in joy<br />
@@ -108,7 +94,7 @@
               <p class="leading-8">
                 A origem e a estrutura do Inferno<br />
                 É a fúria de Deus -<br />
-                Ah! Isto é bom!
+                Ah, isto é bom!
               </p>
               <p class="leading-8">
                 Alegres, clamamos<br />

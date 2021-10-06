@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "5.13.6",
-    "core-js": "3.18.1",
+    "core-js": "3.18.2",
     "nuxt": "2.15.8"
   },
   "devDependencies": {
@@ -22,14 +22,14 @@
     "@nuxtjs/stylelint-module": "4.0.0",
     "@nuxtjs/tailwindcss": "4.2.1",
     "@tailwindcss/typography": "0.4.1",
-    "autoprefixer": "10.3.6",
+    "autoprefixer": "10.3.7",
     "babel-eslint": "10.1.0",
     "eslint": "7.32.0",
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-nuxt": "2.0.0",
     "eslint-plugin-prettier": "4.0.0",
-    "eslint-plugin-vue": "7.18.0",
-    "postcss": "8.3.8",
+    "eslint-plugin-vue": "7.19.1",
+    "postcss": "8.3.9",
     "prettier": "2.4.1",
     "stylelint": "13.13.1",
     "stylelint-config-prettier": "8.0.2",

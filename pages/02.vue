@@ -36,20 +36,6 @@
               Ⅱ
             </span>
           </h1>
-          <!-- <div class="grid grid-cols-2 gap-8">
-            <div class="space-y-8">
-              <p class="leading-8">
-                A disputatio concerning Hell, how it was created and fashioned;
-                concerning also the torments in Hell.
-              </p>
-            </div>
-            <div class="space-y-8">
-              <p class="leading-8">
-                Uma disputatio acerca do Inferno. como foi criado e formado; e
-                também sobre as torturas infernais.
-              </p>
-            </div>
-          </div> -->
         </div>
       </div>
     </div>
@@ -118,7 +104,7 @@
                 Cedo ou tarde, nossos desejos<br />
                 serão satisfeitos - através da guerra,<br />
                 Meditação ou aniquilação.<br />
-                Mesmo o paraíso será achado<br />
+                Mesmo o Paraíso será achado<br />
                 - como deveria - no supermercado.
               </p>
               <p class="leading-8">

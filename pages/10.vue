@@ -36,24 +36,6 @@
               Ⅹ
             </span>
           </h1>
-          <div class="grid grid-cols-2 gap-8">
-            <div class="space-y-8">
-              <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
-              </p>
-            </div>
-            <div class="space-y-8">
-              <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </div>
@@ -69,18 +51,50 @@
           <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Alas, Love and Hate!<br />
+                Why abide ye both<br />
+                At once in my breast?
+              </p>
+              <p class="leading-8">
+                Alas, my timid heart!<br />
+                Where were thine eyes?<br />
+                All ye sense!<br />
+                Where were ye hid?
+              </p>
+              <p class="leading-8">
+                Alas, Malice and Compassion!<br />
+                Who will release me? Whiter<br />
+                Must I creep? Whiter flee?
+              </p>
+              <p class="leading-8 text-right">
+                Too late, it is too late.<br />
+                Wherever I may be, there<br />
+                Of Mercy and Vengeance<br />
+                I am a prisoner.
               </p>
             </div>
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Alas, Amor e Ódio!<br />
+                Por quê habitam vocês ambos<br />
+                Juntos em meu seio?
+              </p>
+              <p class="leading-8">
+                Alas, meu tímido coração!<br />
+                Onde estão seus olhos?<br />
+                Oh, meus sentimentos!<br />
+                Onde estão escondidos?
+              </p>
+              <p class="leading-8">
+                Alas, Malícia e Compaixão!<br />
+                Quando vocês me libertarão? Para onde<br />
+                Devo arrastar-me? Para onde fugir?
+              </p>
+              <p class="leading-8 text-right">
+                Muito tarde, é muito tarde.<br />
+                Onde quer que eu esteja, lá<br />
+                Do Perdão e Vingança,<br />
+                Sou um prisioneiro.
               </p>
             </div>
           </div>

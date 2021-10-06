@@ -36,29 +36,6 @@
               Ⅰ
             </span>
           </h1>
-          <!-- <div class="grid grid-cols-2 gap-8">
-            <div class="space-y-8">
-              <p class="leading-8">
-                - "Do you consider love the strangest emotion?", he asked.<br />
-                - "Do you know a stronger one?"<br />
-                - "Yes, interest."<br />
-                - "By which you presumably mean a love from which the animal
-                warmth has been withdrawn."<br />
-                - "Let us agree on the definition!", he launghed.
-              </p>
-            </div>
-            <div class="space-y-8">
-              <p class="leading-8">
-                - "Você considera o amor a emoção mais forte?", ele
-                perguntou.<br />
-                - "Você conhece uma ainda mais forte?"<br />
-                - "Sim, interesse."<br />
-                - "Pelo que você, provavelmente, entende um amor do qual o calor
-                animal foi tetirado."<br />
-                - "Vamos chegar a um acordo sobre a definição!", ele riu.
-              </p>
-            </div>
-          </div> -->
         </div>
       </div>
     </div>

@@ -36,24 +36,6 @@
               Ⅺ
             </span>
           </h1>
-          <div class="grid grid-cols-2 gap-8">
-            <div class="space-y-8">
-              <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
-              </p>
-            </div>
-            <div class="space-y-8">
-              <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
-              </p>
-            </div>
-          </div>
         </div>
       </div>
     </div>
@@ -69,18 +51,84 @@
           <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Hail, Magarita!<br />
+                Hail, my lost soul!<br />
+                Hail, devilish self!
+              </p>
+              <p class="leading-8">
+                Earthy body, seductress,<br />
+                Burial of my hopes<br />
+                In the white dust of your breast.
+              </p>
+              <p class="leading-8">
+                My roots in your flesh,<br />
+                My birth in your faith.<br />
+                Hail, Devil's sister!
+              </p>
+              <p class="leading-8">
+                Hail, the purity of my damnation -<br />
+                Our sinful beauty,<br />
+                God's offspring!
+              </p>
+              <p class="leading-8">
+                Call me into your arms,<br />
+                You, Father's beloved child -<br />
+                However, a drop of your love is still mine.
+              </p>
+              <p class="leading-8">
+                Despite my heart throbbing<br />
+                In Satan's body.<br />
+                Despite that.
+              </p>
+              <p class="leading-8">
+                How strongly we need<br />
+                Such a drop of love -<br />
+                The Devil's belonging.
+              </p>
+              <p class="leading-8">
+                Hail, Margarita,<br />
+                Sweet one!
               </p>
             </div>
             <div class="space-y-8">
               <p class="leading-8">
-                A beleza destes doze poemas é sombria e terrível. É como se o
-                que houvesse da parte luminosa no mito do Fausto não se
-                refratasse neles e cedesse completamente lugar à outra metade -
-                a seu puro negrume.
+                Salve, Magarita!<br />
+                Salve, minha alma perdida!<br />
+                Salve, ego demoníaco!
+              </p>
+              <p class="leading-8">
+                Corpo térreo, sedutora,<br />
+                Tumba de minhas esperanças<br />
+                Na branca areia de seu seio.
+              </p>
+              <p class="leading-8">
+                Minhas raízes em sua carne,<br />
+                Meu nascimento em sua fé.<br />
+                Salve, irmã do Demônio!
+              </p>
+              <p class="leading-8">
+                Salve, pureza de minha danação -<br />
+                Nossa pecadora beleza,<br />
+                Fruto de Deus!
+              </p>
+              <p class="leading-8">
+                Chame-me em seus braços,<br />
+                Você, amada criança do Pai -<br />
+                Porém, uma gota de seu amor ainda é minha.
+              </p>
+              <p class="leading-8">
+                Apesar de meu coração pulsar<br />
+                No corpo de Satã.<br />
+                Apesar disso.
+              </p>
+              <p class="leading-8">
+                Quão fortemente nós precisamos<br />
+                De tal gota do amor -<br />
+                Pertence ao Demônio.
+              </p>
+              <p class="leading-8">
+                Salve, Margarita,<br />
+                Doce encanto!
               </p>
             </div>
           </div>
