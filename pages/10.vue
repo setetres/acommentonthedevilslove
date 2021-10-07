@@ -9,8 +9,8 @@
     "
   >
     <div class="max-w-6xl">
-      <div class="px-4 sm:px-6 lg:px-32">
-        <div class="text-xl space-y-8">
+      <div class="px-4 sm:px-8 lg:px-32">
+        <div class="space-y-4 sm:space-y-8">
           <h1>
             <span
               class="
@@ -25,12 +25,13 @@
               class="
                 mt-2
                 block
-                text-3xl text-center
+                text-2xl text-center
                 leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
-                sm:text-4xl
+                sm:text-3xl
+                lg:text-4xl
               "
             >
               Ⅹ
@@ -39,17 +40,18 @@
         </div>
       </div>
     </div>
-    <div class="p-16">
+    <div class="p-4 sm:p-8 lg:p-16">
       <img
+        alt="Ⅹ"
         src="~/assets/images/10.png"
         class="w-full rounded-2xl pointer-events-none"
       />
     </div>
     <div class="max-w-6xl">
-      <div class="px-4 sm:px-6 lg:px-32">
-        <div class="text-xl space-y-8">
-          <div class="grid grid-cols-2 gap-8">
-            <div class="space-y-8">
+      <div class="px-4 sm:px-8 lg:px-32">
+        <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
+          <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
+            <div class="space-y-4 sm:space-y-8">
               <p class="leading-8">
                 Alas, Love and Hate!<br />
                 Why abide ye both<br />
@@ -73,7 +75,7 @@
                 I am a prisoner.
               </p>
             </div>
-            <div class="space-y-8">
+            <div class="space-y-4 sm:space-y-8">
               <p class="leading-8">
                 Alas, Amor e Ódio!<br />
                 Por quê habitam vocês ambos<br />

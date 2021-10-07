@@ -1,20 +1,13 @@
-# setetres-archive
+# acommentonthedevilslove
 
-## Build Setup
+[![Github License](https://img.shields.io/github/license/setetres/v13.svg?v=11)](https://github.com/setetres/v13/blob/main/LICENSE)
 
-```bash
-# install dependencies
-$ yarn install
+| [![acommentonthedevilslove](https://setetres.s3.amazonaws.com/setetres.st/img/share-acommentonthedevilslove.png?v=1&raw=true)](http://acommentonthedevilslove.setetres.st) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-# serve with hot reload at localhost:3000
-$ yarn dev
+## License
 
-# build for production and launch server
-$ yarn build
-$ yarn start
+[CC0-1.0]
 
-# generate static project
-$ yarn generate
-```
-
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+[http://acommentonthedevilslove.setetres.st]: http://acommentonthedevilslove.setetres.st
+[cc0-1.0]: http://creativecommons.org/licenses/cc0/1.0

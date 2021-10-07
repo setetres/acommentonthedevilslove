@@ -9,8 +9,8 @@
     "
   >
     <div class="max-w-4xl">
-      <div class="px-4 sm:px-6 lg:px-32">
-        <div class="text-xl space-y-8">
+      <div class="px-4 sm:px-8 lg:px-32">
+        <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
           <h1>
             <span
               class="
@@ -25,12 +25,13 @@
               class="
                 mt-2
                 block
-                text-3xl text-center
+                text-2xl text-center
                 leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
-                sm:text-4xl
+                sm:text-3xl
+                lg:text-4xl
               "
             >
               Prefácio
@@ -74,7 +75,7 @@
             padrões repetidos à exaustão e continuamente transformados e
             justapostos, monotonia e novidade.
           </p>
-          <p class="text-xl leading-8">
+          <p class="leading-8">
             <strong>
               Dono de uma inteligência fulgurante, Fausto a aplicava ora com
               frieza cirúrgica, ora com largos golpes, ora deixando-a vagar sem
@@ -102,7 +103,7 @@
             Às vezes era difícil saber se ele estava deprimido ou eufórico, dada
             sua tendência de temperar um sentimento com o outro.
           </p>
-          <p class="text-xl leading-8">
+          <p class="leading-8">
             <strong>
               Certa ocasião, ao comentar com um amigo comum o que me parecia ser
               o traço depressivo de Fausto, ouvi como resposta que, ao

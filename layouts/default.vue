@@ -1,8 +1,8 @@
 <template>
-  <div class="flex px-16 pr-24 py-32">
+  <div class="flex pl-4 sm:pl-8 lg:pl-16 py-8 sm:py-16 lg:py-32">
     <div class="flex bg-gray-50 rounded-2xl select-none">
       <div>
-        <ul class="sticky top-0 font-mono font-bold text-base w-16">
+        <ul class="sticky top-0 font-mono font-bold text-base w-12 sm:w-16">
           <li>
             <nuxt-link
               class="
@@ -258,7 +258,7 @@
               <span class="w-full z-10">Ⅺ</span>
             </nuxt-link>
           </li>
-          <li class="bg-gray-100">
+          <li class="bg-gray-100 border-b-2 border-white">
             <nuxt-link
               class="
                 flex
@@ -273,23 +273,6 @@
               exact
             >
               <span class="w-full z-10">Ⅻ</span>
-            </nuxt-link>
-          </li>
-          <li class="border-t-2 border-white">
-            <nuxt-link
-              class="
-                flex
-                text-gray-400
-                hover:text-black
-                py-4
-                relative
-                w-full
-                text-center
-              "
-              to="/extras"
-              exact
-            >
-              <span class="w-full z-10">∅</span>
             </nuxt-link>
           </li>
         </ul>

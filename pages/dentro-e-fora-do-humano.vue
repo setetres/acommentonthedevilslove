@@ -9,8 +9,8 @@
     "
   >
     <div class="max-w-4xl">
-      <div class="px-4 sm:px-6 lg:px-32">
-        <div class="text-xl space-y-8">
+      <div class="px-4 sm:px-8 lg:px-32">
+        <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
           <h1>
             <span
               class="
@@ -25,18 +25,19 @@
               class="
                 mt-2
                 block
-                text-3xl text-center
+                text-2xl text-center
                 leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
-                sm:text-4xl
+                sm:text-3xl
+                lg:text-4xl
               "
             >
               Dentro e fora do humano
             </span>
           </h1>
-          <p class="text-xl leading-8">
+          <p class="leading-8">
             <strong>
               A beleza destes doze poemas é sombria e terrível. É como se o que
               houvesse da parte luminosa no mito do Fausto não se refratasse

@@ -9,8 +9,8 @@
     "
   >
     <div class="max-w-4xl">
-      <div class="px-4 sm:px-6 lg:px-32">
-        <div class="text-xl space-y-8">
+      <div class="px-4 sm:px-8 lg:px-32">
+        <div class="space-y-4 sm:space-y-8">
           <h1>
             <span
               class="
@@ -25,12 +25,13 @@
               class="
                 mt-2
                 block
-                text-3xl text-center
+                text-2xl text-center
                 leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
-                sm:text-4xl
+                sm:text-3xl
+                lg:text-4xl
               "
             >
               Twelve English Poems
@@ -39,15 +40,16 @@
         </div>
       </div>
     </div>
-    <div class="p-16">
+    <div class="p-4 sm:p-8 lg:p-16">
       <img
+        alt="A comment on the Devil's Love"
         src="~/assets/images/home.png"
         class="w-full rounded-2xl pointer-events-none"
       />
     </div>
     <div class="max-w-4xl">
-      <div class="px-4 sm:px-6 lg:px-32">
-        <div class="space-y-8">
+      <div class="px-4 sm:px-8 lg:px-32">
+        <div class="space-y-4 sm:space-y-8">
           <p class="text-xl leading-8 font-bold">
             These poems are respectfully dedicated to The Cheshire-Cat.
           </p>
