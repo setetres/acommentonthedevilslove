@@ -26,7 +26,9 @@
                 mt-2
                 block
                 text-2xl text-center
-                leading-8
+                leading-6
+                sm:leading-7
+                lg:leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
@@ -52,48 +54,48 @@
         <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
             <div class="space-y-4 sm:space-y-8">
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 What is the sound of love?<br />
                 The silence of solitude.<br />
-                What if the form of love?<br />
+                What is the form of love?<br />
                 True, but lonely love.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 This impairing coldness,<br />
                 This clear analysis,<br />
                 The ironclad crouch -<br />
                 Isn't it love's touch?
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 But also all the sorrows,<br />
                 Every praised ecstasy<br />
                 And disturbing antinomy
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 - Of condemned passion<br />
                 The whole flaming multitude -<br />
                 Silently play<br />In icy solitude.
               </p>
             </div>
             <div class="space-y-4 sm:space-y-8">
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Qual é o som do amor?<br />
                 O silêncio da solidão.<br />
                 Qual é a forma do amor?<br />
                 Verdadeiro, porém solitário amor.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Esta corrosiva frieza,<br />
                 Esta clara análise,<br />
                 Este aviltamento armado de ferro -<br />
                 Não é o toque do amor?
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Todas as dores,<br />
                 Cada louvado êxtase<br />
                 E perturbante antinomia
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 - De condenada paixão<br />
                 A pluralidade em flamas -<br />
                 Silenciosamente disputam<br />

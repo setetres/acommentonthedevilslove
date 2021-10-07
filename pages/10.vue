@@ -26,7 +26,9 @@
                 mt-2
                 block
                 text-2xl text-center
-                leading-8
+                leading-6
+                sm:leading-7
+                lg:leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
@@ -52,23 +54,23 @@
         <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
             <div class="space-y-4 sm:space-y-8">
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Alas, Love and Hate!<br />
                 Why abide ye both<br />
                 At once in my breast?
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Alas, my timid heart!<br />
                 Where were thine eyes?<br />
                 All ye sense!<br />
                 Where were ye hid?
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Alas, Malice and Compassion!<br />
                 Who will release me? Whiter<br />
                 Must I creep? Whiter flee?
               </p>
-              <p class="leading-8 text-right">
+              <p class="leading-6 sm:leading-7 lg:leading-8 text-right">
                 Too late, it is too late.<br />
                 Wherever I may be, there<br />
                 Of Mercy and Vengeance<br />
@@ -76,23 +78,23 @@
               </p>
             </div>
             <div class="space-y-4 sm:space-y-8">
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Alas, Amor e Ódio!<br />
                 Por quê habitam vocês ambos<br />
                 Juntos em meu seio?
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Alas, meu tímido coração!<br />
                 Onde estão seus olhos?<br />
                 Oh, meus sentimentos!<br />
                 Onde estão escondidos?
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Alas, Malícia e Compaixão!<br />
                 Quando vocês me libertarão? Para onde<br />
                 Devo arrastar-me? Para onde fugir?
               </p>
-              <p class="leading-8 text-right">
+              <p class="leading-6 sm:leading-7 lg:leading-8 text-right">
                 Muito tarde, é muito tarde.<br />
                 Onde quer que eu esteja, lá<br />
                 Do Perdão e Vingança,<br />

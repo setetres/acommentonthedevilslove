@@ -26,7 +26,9 @@
                 mt-2
                 block
                 text-2xl text-center
-                leading-8
+                leading-6
+                sm:leading-7
+                lg:leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
@@ -49,11 +51,11 @@
     </div>
     <div class="max-w-4xl">
       <div class="px-4 sm:px-8 lg:px-32">
-        <div class="space-y-4 sm:space-y-8">
-          <p class="text-xl leading-8 font-bold">
+        <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8 font-bold">
             These poems are respectfully dedicated to The Cheshire-Cat.
           </p>
-          <p class="text-xl leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Brasília, Summer 1973.<br />Fausto Alvim Junior
           </p>
         </div>

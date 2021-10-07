@@ -26,7 +26,9 @@
                 mt-2
                 block
                 text-2xl text-center
-                leading-8
+                leading-6
+                sm:leading-7
+                lg:leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
@@ -37,7 +39,7 @@
               Dentro e fora do humano
             </span>
           </h1>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             <strong>
               A beleza destes doze poemas é sombria e terrível. É como se o que
               houvesse da parte luminosa no mito do Fausto não se refratasse
@@ -45,21 +47,21 @@
               negrume.
             </strong>
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             É um hino negro às forças da extinsão, ao triunfo absoluto da morte.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             O tom elegíaco, retirado da tradição inglesa, carregado de uma
             estranha emoção fria, tensiona o texto ao máximo, exprimindo
             admiravelmente os conteúdos de revolta e danação de uma experiência
             que se quer dentro e fora do humano.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             O poeta comenta o amor do demônio. A via amorosa, via fáustica por
             excelência da revelação suprema, não se banha em luz alguma: o amor
             e sua posse nada mais são do que a consciência da perda.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Estes poemas soam, para mim, como a exasperação do que talvez seja o
             principal tema do Fausto:
             <strong>

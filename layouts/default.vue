@@ -9,7 +9,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -26,7 +27,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -43,7 +45,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -60,7 +63,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -77,7 +81,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -94,7 +99,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -111,7 +117,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -128,7 +135,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -145,7 +153,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -162,7 +171,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -179,7 +189,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -196,7 +207,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -213,7 +225,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -230,7 +243,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -247,7 +261,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center
@@ -264,7 +279,8 @@
                 flex
                 text-gray-400
                 hover:text-black
-                py-4
+                py-3
+                sm:py-4
                 relative
                 w-full
                 text-center

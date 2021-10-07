@@ -26,7 +26,9 @@
                 mt-2
                 block
                 text-2xl text-center
-                leading-8
+                leading-6
+                sm:leading-7
+                lg:leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
@@ -37,7 +39,7 @@
               Prefácio
             </span>
           </h1>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Vi Fausto pela última vez em Brasília, algumas semanas antes de sua
             morte. A vida nos levara de um lado para o outro, e por um motivo
             qualquer fazia um par de anos que não nos encontrávamos. Velhos
@@ -48,7 +50,7 @@
             preparação, falamos longamente sobre a vida e a morte, especialmente
             esta.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             No dia seguinte, frente a um Chope fracativo, tomado no terraço do
             aeroporto à espera da chamada de meu vôo, combinamos a realização de
             um evento, de cunho conservador, dedicado à filosofia da ciência.
@@ -56,7 +58,7 @@
             tantas vezes no passado, com a certeza de que muito tempo passaria
             antes de nos vermos outra vez.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             No avião, refleti que Fausto parecia desesperançado, ou cansado de
             batalhas, vencidas ou perdidas, poucas aquelas e muitas estas, como
             com todo mundo. Mas talvez a imagem seja apenas fruto da fugacidade
@@ -64,7 +66,7 @@
             definitivo da situação, e que por isso se sobrepõe às muitas outras
             imagens que formam seu retrato.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Um retrato formado, por exemplo, pelas expressões de deleite perante
             uma comilança especialmente suntuosa. Ou as explosões de
             expansividade, voltadas para pessoas recém-conhecidas em que ele
@@ -75,7 +77,7 @@
             padrões repetidos à exaustão e continuamente transformados e
             justapostos, monotonia e novidade.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             <strong>
               Dono de uma inteligência fulgurante, Fausto a aplicava ora com
               frieza cirúrgica, ora com largos golpes, ora deixando-a vagar sem
@@ -83,7 +85,7 @@
               similitudes, contrastes.
             </strong>
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Uma de suas fortes características era o formalismo, aparente nas
             menores coisas: um objeto sobre a mesa, sempre no mesmo lugar e na
             mesma posição, meticulosamente arrumado se porventura deslocado; a
@@ -91,7 +93,7 @@
             estrita às convenções do minueto sócio-burocrático que toma tanto
             tempo e esforço na vida do peculiar ambiente de Brasília.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Acostumado a centralizar atenções, Fausto foi ao longo de anos se
             cansando desse luxo, embora o hábito tantas vezes reiterado se
             sobrepusesse, freqüentemente, ao esgotamento. Alimentava um certo
@@ -99,11 +101,11 @@
             ordem fundamental que permanecia como referência, não raro provocava
             confusão naqueles que o conheciam pouco.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Às vezes era difícil saber se ele estava deprimido ou eufórico, dada
             sua tendência de temperar um sentimento com o outro.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             <strong>
               Certa ocasião, ao comentar com um amigo comum o que me parecia ser
               o traço depressivo de Fausto, ouvi como resposta que, ao
@@ -112,7 +114,7 @@
               naturalmente, não prova coisa alguma.
             </strong>
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Fausto foi uma das poucas pessoas no Brasil que jamais pediu
             demissão de um cargo universitário. Causou com isso considerável
             mal-estar entre seus pares, muitos dos quais identificaram -
@@ -129,7 +131,7 @@
               alimentou também sua aplicação a poesia</strong
             >, que um querido amigo comum, poeta de renome, invejava pela força.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Mas as expedições exploratórias para fora do caminho mais ou menos
             conhecido foram com demasiada frequência frustradas, caravanas cujos
             integrantes gradualmente desapareceram sem deixar traços. Ele sempre
@@ -140,7 +142,7 @@
             fechar o círculo, tendo deixado de acreditar em muito do que se
             habituara a sustentar.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             <strong>São flashes, marcas de passagem</strong>, como na letra de
             música que fala de alguém que encontra alguém num sinal de trânsito,
             <strong>

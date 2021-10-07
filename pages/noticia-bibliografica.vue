@@ -26,7 +26,9 @@
                 mt-2
                 block
                 text-2xl text-center
-                leading-8
+                leading-6
+                sm:leading-7
+                lg:leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
@@ -37,20 +39,20 @@
               Notícia bibliográfica
             </span>
           </h1>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Meu irmão gostava de passar a limpo seus poemas em folhas de papel
             ofício. Lembro-me bem das pequenas manchas de sua grafia, diminuta e
             difícil, dispostas com capricho sobre o papel.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             De vez em quando reunia, em edições precárias, o que lhe parecia o
             melhor dessa produção e distribuía aos amigos.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Tenho três dessas publicações. Sua produção vai muito além não só em
             termos das coletâneas que organizou, mas de material avulso.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Comigo conservo exemplar de seu primeiro livro, "Início das Aulas",
             de 1973. Dele saíram umas poucas cópias reprográficas; conservo,
             ainda o xerox de outra coletânea, com o belo título "Mal Constante",
@@ -60,13 +62,13 @@
             mimeógrafo a álcool "Cachacinha", da geração desses artefatos que
             imprimia em tonalidade magenta, e vinda a lume no Natal de 1972.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Quando morreu, estava prestes a concluir os preparativos para esta
             edição do "On Reading the Legend of Faustus", a qual sairia com
             tradução de sua lavra para o português e ilustrações de Paulo
             Andrade.
           </p>
-          <p class="leading-8">
+          <p class="leading-6 sm:leading-7 lg:leading-8">
             Este o trabalho que, levado adiante por sua sua filha Maria
             Mercêdes, é agora publicado digitalmente, 48 anos depois, por
             Guilherme Pangnotta.

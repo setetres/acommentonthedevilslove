@@ -26,7 +26,9 @@
                 mt-2
                 block
                 text-2xl text-center
-                leading-8
+                leading-6
+                sm:leading-7
+                lg:leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
@@ -52,83 +54,83 @@
         <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
             <div class="space-y-4 sm:space-y-8">
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Hell's origin and structure<br />
                 Is God's Wrath -<br />
                 Ah, that is good!
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 We shout in joy<br />
                 To Heave, we are glad.<br />
                 For the Dies Irae.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 We may bomb our napalm,<br />
                 We may set fire the houses,<br />
                 We rejoice in the Father's Hate.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Let us smash, burn, destroy,<br />
                 Let our hymn to Death be complete,<br />
                 Let us dance with Her,
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Let us out ourselves in to pieces.<br />
                 That we make the damned<br />
                 Still more desperate -
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 It is fit to do so,<br />
                 For no damned soul will ever return<br />
                 To God's Big Hearth.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 It is very nice,<br />
                 This and the Other World.<br />
                 There is always something to do.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 How nice they meet,<br />
                 The Devil, He and Us.
               </p>
             </div>
             <div class="space-y-4 sm:space-y-8">
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 A origem e a estrutura do Inferno<br />
                 É a fúria de Deus -<br />
                 Ah, isto é bom!
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Alegres, clamamos<br />
                 Aos Céus, estamos contentes.<br />
                 Pela Dies Irae.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Podemos lançar nosso napalm,<br />
                 Podemos incendiar as casas,<br />
                 Nos rejubilamos com o Ódio do Pai.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Arrazemos, queimamos, destruamos,<br />
                 Seja completo nosso hino à Morte,<br />
                 Dancemos com Ela,
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Cortemo-nos em pedaços.<br />
                 Façamos os malditos<br />
                 Ainda mais desesperados -
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 É próprio assim cumprir,<br />
                 Pois nenhuma alma condenada jamais retornará<br />
                 Ao grande Coração de Deus.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 São muito bonitos,<br />
                 Este e o Outro Mundo.<br />
                 Há sempre alguma coisa a fazer.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Lindamente se encontram,<br />
                 O Demônio, Ele e Nós.
               </p>

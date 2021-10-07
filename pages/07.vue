@@ -26,7 +26,9 @@
                 mt-2
                 block
                 text-2xl text-center
-                leading-8
+                leading-6
+                sm:leading-7
+                lg:leading-8
                 font-extrabold
                 tracking-tight
                 text-gray-900
@@ -52,26 +54,26 @@
         <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
           <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
             <div class="space-y-4 sm:space-y-8">
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 What good to me<br />
                 Is a knave's leg?<br />
                 My body is not mine,<br />
                 It is the Devil's body.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 I walk in Lucifer's arms,<br />
                 I think Belzebu's thoughts.<br />
                 I lok only to the visions of Hell,<br />
                 For my eyes are the Devil's eyes.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 This everlasting sense of loss,<br />
                 This dazing and faint love feeling,<br />
                 All this shapes the hard road to damnation:<br />
                 The soul paves it, carefully,<br />
                 With some obscure purpose.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Wisely, the wicked builds his own ignorance<br />
                 But soon forgets the well done seed.<br />
                 Alas! whilist he delights in his image,<br />
@@ -80,31 +82,31 @@
               </p>
             </div>
             <div class="space-y-4 sm:space-y-8">
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 De que me serve<br />
-                A perna de um velhaço?<br />
+                A perna de um velhaco?<br />
                 Meu corpo não é meu,<br />
                 É o corpo do Diabo.
               </p>
-              <p class="leading-8">
-                Ando nos braços de Lúcier,<br />
+              <p class="leading-6 sm:leading-7 lg:leading-8">
+                Ando nos braços de Lúcifer,<br />
                 Penso os pensamentos de Belzebú.<br />
                 Contemplo apenas as visões do Inferno,<br />
                 Pois meus olhos são os olhos do Demônio.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Este permanente sentido de perda,<br />
                 Este entorpecente e leve sentimento de amor,<br />
                 Tudo isto modela a dura estrada da danação:<br />
                 A alma a pavimenta,<br />
                 Com algum obscuro propósito.
               </p>
-              <p class="leading-8">
+              <p class="leading-6 sm:leading-7 lg:leading-8">
                 Sabiamente, o iníquo constrói sua ignorância<br />
                 Mas logo esquece o bom feito.<br />
                 Alas! enquanto ele se deleita em sua imagem,<br />
                 O Demônio a segura. Deixe-me empenhar<br />
-                Minhas mirage: que um outro a resgate.
+                Minha miragem: que um outro a resgate.
               </p>
             </div>
           </div>
