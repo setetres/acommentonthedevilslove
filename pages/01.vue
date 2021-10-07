@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -70,7 +70,7 @@
               <p class="leading-8">
                 - Of condemned passion<br />
                 The whole flaming multitude -<br />
-                Silently play<br />In icy solitute.
+                Silently play<br />In icy solitude.
               </p>
             </div>
             <div class="space-y-8">
@@ -83,7 +83,7 @@
               <p class="leading-8">
                 Esta corrosiva frieza,<br />
                 Esta clara análise,<br />
-                Este aviltamente armado de ferro -<br />
+                Este aviltamento armado de ferro -<br />
                 Não é o toque do amor?
               </p>
               <p class="leading-8">
@@ -108,7 +108,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Ⅰ",
+      title: "A comment on the Devil's Love — Ⅰ",
     }
   },
 

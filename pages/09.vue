@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -76,7 +76,7 @@
                 He will remain by thy side.<br />
                 Devilish aid. Do not exhibit<br />
                 Him, carelessly, the murderous<br />
-                Claim of thine darkcoal eyes.
+                Claim of thine dark coal eyes.
               </p>
             </div>
             <div class="space-y-8">
@@ -119,7 +119,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Ⅸ",
+      title: "A comment on the Devil's Love — Ⅸ",
     }
   },
 

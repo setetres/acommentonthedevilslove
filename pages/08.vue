@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -113,7 +113,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Ⅷ",
+      title: "A comment on the Devil's Love — Ⅷ",
     }
   },
 

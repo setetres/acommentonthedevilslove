@@ -304,7 +304,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love",
+      title: "A comment on the Devil's Love",
     }
   },
 

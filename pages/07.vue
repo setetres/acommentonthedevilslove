@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -93,7 +93,7 @@
               <p class="leading-8">
                 Este permanente sentido de perda,<br />
                 Este entorpecente e leve sentimento de amor,<br />
-                Tudo isto modela a dura strada da danação:<br />
+                Tudo isto modela a dura estrada da danação:<br />
                 A alma a pavimenta,<br />
                 Com algum obscuro propósito.
               </p>
@@ -115,7 +115,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Ⅶ",
+      title: "A comment on the Devil's Love — Ⅶ",
     }
   },
 

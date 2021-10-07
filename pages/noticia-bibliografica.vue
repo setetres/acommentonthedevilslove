@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -39,7 +39,7 @@
           <p class="leading-8">
             Meu irmão gostava de passar a limpo seus poemas em folhas de papel
             ofício. Lembro-me bem das pequenas manchas de sua grafia, diminuta e
-            díficl, dispostas com capricho sobre o papel.
+            difícil, dispostas com capricho sobre o papel.
           </p>
           <p class="leading-8">
             De vez em quando reunia, em edições precárias, o que lhe parecia o
@@ -55,7 +55,7 @@
             ainda o xerox de outra coletânea, com o belo título "Mal Constante",
             de 1983; e o primeiro exemplar, dedicado a mim e minha mulher, da
             tiragem inaugural e "On Reading the Legend of Faustus (A comment on
-            the Devil´s Love), Twelve English Poems". Publicação policopiada no
+            the Devil's Love), Twelve English Poems". Publicação policopiada no
             mimeógrafo a álcool "Cachacinha", da geração desses artefatos que
             imprimia em tonalidade magenta, e vinda a lume no Natal de 1972.
           </p>
@@ -67,7 +67,7 @@
           </p>
           <p class="leading-8">
             Este o trabalho que, levado adiante por sua sua filha Maria
-            Mercêdes, é agora publicado digitalmente, 48 anos anos depois, por
+            Mercêdes, é agora publicado digitalmente, 48 anos depois, por
             Guilherme Pangnotta.
           </p>
           <p class="text-gray-500 text-sm italic">Francisco Alvim</p>
@@ -80,7 +80,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Notícia Bibliográfica",
+      title: "A comment on the Devil's Love — Notícia Bibliográfica",
     }
   },
 

@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -63,7 +63,7 @@
               <p class="leading-8">
                 We want only sensible things,<br />
                 Better cloathing, better food and fornication.<br />
-                A bit more of love and peace, perheps,<br />
+                A bit more of love and peace, perhaps,<br />
                 But hate and violence are also needed.
               </p>
               <p class="leading-8">
@@ -127,7 +127,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Ⅱ",
+      title: "A comment on the Devil's Love — Ⅱ",
     }
   },
 

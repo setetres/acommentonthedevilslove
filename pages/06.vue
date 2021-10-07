@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -94,7 +94,7 @@
               <p class="leading-8">
                 Por quê essa pergunta comove minha alma?<br />
                 Não sou compelido a prosseguir, sempre<br />
-                E como um fantasma, ao lado de Alaxandre?
+                E como um fantasma, ao lado de Alexandre?
               </p>
             </div>
           </div>
@@ -107,7 +107,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Ⅵ",
+      title: "A comment on the Devil's Love — Ⅵ",
     }
   },
 

@@ -10,7 +10,7 @@ export default {
     bodyAttrs: {
       class: 'bg-white overflow-y-scroll min-h-screen font-serif',
     },
-    title: "A comment on the Devil's love",
+    title: "A comment on the Devil's Love",
     meta: [
       { charset: 'utf-8' },
       {

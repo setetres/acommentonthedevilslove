@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -39,7 +39,7 @@
           <p class="leading-8">
             Vi Fausto pela última vez em Brasília, algumas semanas antes de sua
             morte. A vida nos levara de um lado para o outro, e por um motivo
-            qualquer fazia um par de anos que não nos encotrávamos. Velhos
+            qualquer fazia um par de anos que não nos encontrávamos. Velhos
             amigos falam sempre das mesmas coisas, de modo que retomamos antigas
             conversas e checamos, cada qual de seu lado, se o outro continuava
             mais ou menos o mesmo. Ambos descobrimos que não, como é natural.
@@ -56,7 +56,7 @@
             antes de nos vermos outra vez.
           </p>
           <p class="leading-8">
-            No avião, refleti que Fausto parecia desespenrançado, ou cansado de
+            No avião, refleti que Fausto parecia desesperançado, ou cansado de
             batalhas, vencidas ou perdidas, poucas aquelas e muitas estas, como
             com todo mundo. Mas talvez a imagem seja apenas fruto da fugacidade
             do reencontro, ou uma impressão amplificada, em retrospecto, pelo
@@ -106,7 +106,7 @@
             <strong>
               Certa ocasião, ao comentar com um amigo comum o que me parecia ser
               o traço depressivo de Fausto, ouvi como resposta que, ao
-              contrário, a preoucupação dominante nele era a busca de
+              contrário, a preocupação dominante nele era a busca de
               gratificação pessoal, dos sentidos, estética e intelectual. O que,
               naturalmente, não prova coisa alguma.
             </strong>
@@ -114,14 +114,14 @@
           <p class="leading-8">
             Fausto foi uma das poucas pessoas no Brasil que jamais pediu
             demissão de um cargo universitário. Causou com isso considerável
-            mal-estar entre seus pares, muitos dos quais indentificaram -
+            mal-estar entre seus pares, muitos dos quais identificaram -
             corretamente - no episódio de uma manifestação de incontida
-            rejeição. Mas a decisão, ao lado disso, assinalou tardiamnete um
+            rejeição. Mas a decisão, ao lado disso, assinalou tardiamente um
             divisor de águas em sua vida, uma renúncia, exercida anos antes, à
             atividade intelectual organizada de acordo com a tipologia
             convencional. Seu envolvimento na criação do Centro Nacional de
             Referência Cultural enraizava-se fortemente na busca - que ele
-            descobriu ser necessariamente solitária - por uma exploicação
+            descobriu ser necessariamente solitária - por uma explicação
             coerente para o conhecimento. Nesse sentido,
             <strong>
               nunca deixou de ser o matemático de origem, referência interna que
@@ -157,7 +157,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Prefácio",
+      title: "A comment on the Devil's Love — Prefácio",
     }
   },
 

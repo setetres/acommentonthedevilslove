@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -51,7 +51,7 @@
           <div class="grid grid-cols-2 gap-8">
             <div class="space-y-8">
               <p class="leading-8">
-                Hail, Magarita!<br />
+                Hail, Margarita!<br />
                 Hail, my lost soul!<br />
                 Hail, devilish self!
               </p>
@@ -92,7 +92,7 @@
             </div>
             <div class="space-y-8">
               <p class="leading-8">
-                Salve, Magarita!<br />
+                Salve, Margarita!<br />
                 Salve, minha alma perdida!<br />
                 Salve, ego demoníaco!
               </p>
@@ -141,7 +141,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Ⅺ",
+      title: "A comment on the Devil's Love — Ⅺ",
     }
   },
 

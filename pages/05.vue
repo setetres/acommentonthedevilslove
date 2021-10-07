@@ -19,7 +19,7 @@
                 font-bold
                 tracking-wide
               "
-              >A comment on the Devil's love</span
+              >A comment on the Devil's Love</span
             >
             <span
               class="
@@ -69,7 +69,7 @@
               </p>
               <p class="leading-8">
                 For ye are thy Devil,<br />
-                Mephisto, the Mischieveous One,<br />
+                Mephisto, the Mischievous One,<br />
                 And by Him ye are swallowed -
               </p>
               <p class="leading-8 text-right">Sorrowful, cheerful ouroboros!</p>
@@ -97,7 +97,7 @@
                 Mefistófoles, o Malicioso,<br />
                 E por Ele você é engolido -
               </p>
-              <p class="leading-8 text-right">Lamentável, alegre oroboros!</p>
+              <p class="leading-8 text-right">Lamentável, alegre ouroboros!</p>
             </div>
           </div>
         </div>
@@ -109,7 +109,7 @@
 export default {
   head() {
     return {
-      title: "A comment on the Devil's love — Ⅴ",
+      title: "A comment on the Devil's Love — Ⅴ",
     }
   },
 
