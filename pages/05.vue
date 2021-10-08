@@ -8,106 +8,74 @@
       relative
     "
   >
-    <div class="max-w-6xl">
-      <div class="px-4 sm:px-8 lg:px-32">
+    <h2
+      class="
+        text-3xl
+        sm:text-4xl
+        text-center
+        font-extrabold
+        tracking-tight
+        text-gray-900
+      "
+    >
+      Ⅴ
+    </h2>
+    <img
+      alt="Ⅴ"
+      src="~/assets/images/05.png"
+      class="w-full rounded-2xl pointer-events-none my-8"
+    />
+    <div class="max-w-6xl px-4 sm:px-8 lg:px-32 text-lg sm:text-xl">
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 leading-7 sm:leading-8">
         <div class="space-y-4 sm:space-y-8">
-          <h1>
-            <span
-              class="
-                block
-                text-base text-center text-purple-600
-                font-bold
-                tracking-wide
-              "
-              >A comment on the Devil's Love</span
-            >
-            <span
-              class="
-                mt-2
-                block
-                text-2xl text-center
-                leading-6
-                sm:leading-7
-                lg:leading-8
-                font-extrabold
-                tracking-tight
-                text-gray-900
-                sm:text-3xl
-                lg:text-4xl
-              "
-            >
-              Ⅴ
-            </span>
-          </h1>
+          <p>
+            Sweet Fauste,<br />
+            What is thy purpose with thyself?<br />
+            (He had defied God<br />
+            Yielding himself up
+          </p>
+          <p>
+            To the accursed Devil).<br />
+            To meet my own self,<br />
+            That was my purpose.<br />
+            But that was too much.
+          </p>
+          <p>
+            Ye must always be<br />
+            Some other spirit,<br />
+            Do not struggle for thyself -
+          </p>
+          <p>
+            For ye are thy Devil,<br />
+            Mephisto, the Mischievous One,<br />
+            And by Him ye are swallowed -
+          </p>
+          <p class="text-right">Sorrowful, cheerful ouroboros!</p>
         </div>
-      </div>
-    </div>
-    <div class="p-4 sm:p-8 lg:p-16">
-      <img
-        alt="Ⅴ"
-        src="~/assets/images/05.png"
-        class="w-full rounded-2xl pointer-events-none"
-      />
-    </div>
-    <div class="max-w-6xl">
-      <div class="px-4 sm:px-8 lg:px-32">
-        <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
-            <div class="space-y-4 sm:space-y-8">
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Sweet Fauste,<br />
-                What is thy purpose with thyself?<br />
-                (He had defied God<br />
-                Yielding himself up
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                To the accursed Devil).<br />
-                To meet my own self,<br />
-                That was my purpose.<br />
-                But that was too much.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Ye must always be<br />
-                Some other spirit,<br />
-                Do not struggle for thyself -
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                For ye are thy Devil,<br />
-                Mephisto, the Mischievous One,<br />
-                And by Him ye are swallowed -
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8 text-right">
-                Sorrowful, cheerful ouroboros!
-              </p>
-            </div>
-            <div class="space-y-4 sm:space-y-8">
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Doce Fausto,<br />
-                O que você se propõe?<br />
-                (Ele havia desafiado Deus<br />
-                Rendendo-se
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Ao Demônio execrável).<br />
-                Encontrar meu próprio ser,<br />
-                Este foi meu propósito.<br />
-                Porém era desmedido.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Você deve sempre ser<br />
-                Algum outro espírito,<br />
-                Não lute por si mesmo -
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Pois você é seu próprio Demônio,<br />
-                Mefistófoles, o Malicioso,<br />
-                E por Ele você é engolido -
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8 text-right">
-                Lamentável, alegre ouroboros!
-              </p>
-            </div>
-          </div>
+        <div class="space-y-4 sm:space-y-8">
+          <p>
+            Doce Fausto,<br />
+            O que você se propõe?<br />
+            (Ele havia desafiado Deus<br />
+            Rendendo-se
+          </p>
+          <p>
+            Ao Demônio execrável).<br />
+            Encontrar meu próprio ser,<br />
+            Este foi meu propósito.<br />
+            Porém era desmedido.
+          </p>
+          <p>
+            Você deve sempre ser<br />
+            Algum outro espírito,<br />
+            Não lute por si mesmo -
+          </p>
+          <p>
+            Pois você é seu próprio Demônio,<br />
+            Mefistófoles, o Malicioso,<br />
+            E por Ele você é engolido -
+          </p>
+          <p class="text-right">Lamentável, alegre ouroboros!</p>
         </div>
       </div>
     </div>

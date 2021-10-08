@@ -1,6 +1,6 @@
 <template>
-  <div class="flex pl-4 sm:pl-8 lg:pl-16 py-8 sm:py-16 lg:py-32">
-    <div class="flex bg-gray-50 rounded-2xl select-none">
+  <div class="flex">
+    <div class="flex bg-gray-50 select-none">
       <div>
         <ul class="sticky top-0 font-mono font-bold text-base w-12 sm:w-16">
           <li>
@@ -13,12 +13,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/"
               exact
             >
-              <span class="w-full z-10">✹</span>
+              ✹
             </nuxt-link>
           </li>
           <li>
@@ -31,12 +31,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/prefacio"
               exact
             >
-              <span class="w-full z-10">⊟</span>
+              ⊟
             </nuxt-link>
           </li>
           <li>
@@ -49,12 +49,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/noticia-bibliografica"
               exact
             >
-              <span class="w-full z-10">≋</span>
+              ≋
             </nuxt-link>
           </li>
           <li class="border-b-2 border-white">
@@ -67,12 +67,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/dentro-e-fora-do-humano"
               exact
             >
-              <span class="w-full z-10">⊙</span>
+              ⊙
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -85,12 +85,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/01"
               exact
             >
-              <span class="w-full z-10">Ⅰ</span>
+              Ⅰ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -103,12 +103,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/02"
               exact
             >
-              <span class="w-full z-10">Ⅱ</span>
+              Ⅱ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -121,12 +121,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/03"
               exact
             >
-              <span class="w-full z-10">Ⅲ</span>
+              Ⅲ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -139,12 +139,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/04"
               exact
             >
-              <span class="w-full z-10">Ⅳ</span>
+              Ⅳ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -157,12 +157,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/05"
               exact
             >
-              <span class="w-full z-10">Ⅴ</span>
+              Ⅴ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -175,12 +175,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/06"
               exact
             >
-              <span class="w-full z-10">Ⅵ</span>
+              Ⅵ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -193,12 +193,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/07"
               exact
             >
-              <span class="w-full z-10">Ⅶ</span>
+              Ⅶ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -211,12 +211,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/08"
               exact
             >
-              <span class="w-full z-10">Ⅷ</span>
+              Ⅷ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -229,12 +229,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/09"
               exact
             >
-              <span class="w-full z-10">Ⅸ</span>
+              Ⅸ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -247,12 +247,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/10"
               exact
             >
-              <span class="w-full z-10">Ⅹ</span>
+              Ⅹ
             </nuxt-link>
           </li>
           <li class="bg-gray-100">
@@ -265,12 +265,12 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/11"
               exact
             >
-              <span class="w-full z-10">Ⅺ</span>
+              Ⅺ
             </nuxt-link>
           </li>
           <li class="bg-gray-100 border-b-2 border-white">
@@ -283,18 +283,30 @@
                 sm:py-4
                 relative
                 w-full
-                text-center
+                justify-center
               "
               to="/12"
               exact
             >
-              <span class="w-full z-10">Ⅻ</span>
+              Ⅻ
             </nuxt-link>
           </li>
         </ul>
       </div>
     </div>
-    <main class="flex-1">
+    <main class="flex-1 p-4 sm:p-8 lg:p-16">
+      <h1>
+        <span
+          class="
+            block
+            text-base text-center text-purple-600
+            font-bold
+            tracking-wide
+          "
+        >
+          A comment on the Devil's Love
+        </span>
+      </h1>
       <Nuxt />
     </main>
   </div>

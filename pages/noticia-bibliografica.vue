@@ -8,51 +8,36 @@
       relative
     "
   >
-    <div class="max-w-4xl">
-      <div class="px-4 sm:px-8 lg:px-32">
-        <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
-          <h1>
-            <span
-              class="
-                block
-                text-base text-center text-purple-600
-                font-bold
-                tracking-wide
-              "
-              >A comment on the Devil's Love</span
-            >
-            <span
-              class="
-                mt-2
-                block
-                text-2xl text-center
-                leading-6
-                sm:leading-7
-                lg:leading-8
-                font-extrabold
-                tracking-tight
-                text-gray-900
-                sm:text-3xl
-                lg:text-4xl
-              "
-            >
-              Notícia bibliográfica
-            </span>
-          </h1>
-          <p class="leading-6 sm:leading-7 lg:leading-8">
+    <h2
+      class="
+        text-3xl
+        sm:text-4xl
+        text-center
+        font-extrabold
+        tracking-tight
+        text-gray-900
+        mb-8
+      "
+    >
+      Notícia Bibliográfica
+    </h2>
+    <div class="max-w-4xl px-4 sm:px-8 lg:px-32 text-lg sm:text-xl">
+      <div class="grid grid-cols-1 gap-8 leading-7 sm:leading-8">
+        <div class="space-y-4 sm:space-y-8">
+          <p>
             Meu irmão gostava de passar a limpo seus poemas em folhas de papel
             ofício. Lembro-me bem das pequenas manchas de sua grafia, diminuta e
             difícil, dispostas com capricho sobre o papel.
           </p>
-          <p class="leading-6 sm:leading-7 lg:leading-8">
+          <p>
             De vez em quando reunia, em edições precárias, o que lhe parecia o
             melhor dessa produção e distribuía aos amigos.
           </p>
-          <p class="leading-6 sm:leading-7 lg:leading-8">
+          <p>
             Tenho três dessas publicações. Sua produção vai muito além não só em
             termos das coletâneas que organizou, mas de material avulso.
           </p>
-          <p class="leading-6 sm:leading-7 lg:leading-8">
+          <p>
             Comigo conservo exemplar de seu primeiro livro, "Início das Aulas",
             de 1973. Dele saíram umas poucas cópias reprográficas; conservo,
             ainda o xerox de outra coletânea, com o belo título "Mal Constante",
@@ -62,13 +47,13 @@
             mimeógrafo a álcool "Cachacinha", da geração desses artefatos que
             imprimia em tonalidade magenta, e vinda a lume no Natal de 1972.
           </p>
-          <p class="leading-6 sm:leading-7 lg:leading-8">
+          <p>
             Quando morreu, estava prestes a concluir os preparativos para esta
             edição do "On Reading the Legend of Faustus", a qual sairia com
             tradução de sua lavra para o português e ilustrações de Paulo
             Andrade.
           </p>
-          <p class="leading-6 sm:leading-7 lg:leading-8">
+          <p>
             Este o trabalho que, levado adiante por sua sua filha Maria
             Mercêdes, é agora publicado digitalmente, 48 anos depois, por
             Guilherme Pangnotta.

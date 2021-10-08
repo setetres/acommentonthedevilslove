@@ -8,134 +8,106 @@
       relative
     "
   >
-    <div class="max-w-6xl">
-      <div class="px-4 sm:px-8 lg:px-32">
+    <h2
+      class="
+        text-3xl
+        sm:text-4xl
+        text-center
+        font-extrabold
+        tracking-tight
+        text-gray-900
+      "
+    >
+      Ⅲ
+    </h2>
+    <img
+      alt="Ⅲ"
+      src="~/assets/images/03.png"
+      class="w-full rounded-2xl pointer-events-none my-8"
+    />
+    <div class="max-w-6xl px-4 sm:px-8 lg:px-32 text-lg sm:text-xl">
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 leading-7 sm:leading-8">
         <div class="space-y-4 sm:space-y-8">
-          <h1>
-            <span
-              class="
-                block
-                text-base text-center text-purple-600
-                font-bold
-                tracking-wide
-              "
-              >A comment on the Devil's Love</span
-            >
-            <span
-              class="
-                mt-2
-                block
-                text-2xl text-center
-                leading-6
-                sm:leading-7
-                lg:leading-8
-                font-extrabold
-                tracking-tight
-                text-gray-900
-                sm:text-3xl
-                lg:text-4xl
-              "
-            >
-              Ⅲ
-            </span>
-          </h1>
+          <p>
+            Hell's origin and structure<br />
+            Is God's Wrath -<br />
+            Ah, that is good!
+          </p>
+          <p>
+            We shout in joy<br />
+            To Heave, we are glad.<br />
+            For the Dies Irae.
+          </p>
+          <p>
+            We may bomb our napalm,<br />
+            We may set fire the houses,<br />
+            We rejoice in the Father's Hate.
+          </p>
+          <p>
+            Let us smash, burn, destroy,<br />
+            Let our hymn to Death be complete,<br />
+            Let us dance with Her,
+          </p>
+          <p>
+            Let us out ourselves in to pieces.<br />
+            That we make the damned<br />
+            Still more desperate -
+          </p>
+          <p>
+            It is fit to do so,<br />
+            For no damned soul will ever return<br />
+            To God's Big Hearth.
+          </p>
+          <p>
+            It is very nice,<br />
+            This and the Other World.<br />
+            There is always something to do.
+          </p>
+          <p>
+            How nice they meet,<br />
+            The Devil, He and Us.
+          </p>
         </div>
-      </div>
-    </div>
-    <div class="p-4 sm:p-8 lg:p-16">
-      <img
-        alt="Ⅲ"
-        src="~/assets/images/03.png"
-        class="w-full rounded-2xl pointer-events-none"
-      />
-    </div>
-    <div class="max-w-6xl">
-      <div class="px-4 sm:px-8 lg:px-32">
-        <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
-            <div class="space-y-4 sm:space-y-8">
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Hell's origin and structure<br />
-                Is God's Wrath -<br />
-                Ah, that is good!
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                We shout in joy<br />
-                To Heave, we are glad.<br />
-                For the Dies Irae.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                We may bomb our napalm,<br />
-                We may set fire the houses,<br />
-                We rejoice in the Father's Hate.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Let us smash, burn, destroy,<br />
-                Let our hymn to Death be complete,<br />
-                Let us dance with Her,
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Let us out ourselves in to pieces.<br />
-                That we make the damned<br />
-                Still more desperate -
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                It is fit to do so,<br />
-                For no damned soul will ever return<br />
-                To God's Big Hearth.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                It is very nice,<br />
-                This and the Other World.<br />
-                There is always something to do.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                How nice they meet,<br />
-                The Devil, He and Us.
-              </p>
-            </div>
-            <div class="space-y-4 sm:space-y-8">
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                A origem e a estrutura do Inferno<br />
-                É a fúria de Deus -<br />
-                Ah, isto é bom!
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Alegres, clamamos<br />
-                Aos Céus, estamos contentes.<br />
-                Pela Dies Irae.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Podemos lançar nosso napalm,<br />
-                Podemos incendiar as casas,<br />
-                Nos rejubilamos com o Ódio do Pai.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Arrazemos, queimamos, destruamos,<br />
-                Seja completo nosso hino à Morte,<br />
-                Dancemos com Ela,
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Cortemo-nos em pedaços.<br />
-                Façamos os malditos<br />
-                Ainda mais desesperados -
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                É próprio assim cumprir,<br />
-                Pois nenhuma alma condenada jamais retornará<br />
-                Ao grande Coração de Deus.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                São muito bonitos,<br />
-                Este e o Outro Mundo.<br />
-                Há sempre alguma coisa a fazer.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Lindamente se encontram,<br />
-                O Demônio, Ele e Nós.
-              </p>
-            </div>
-          </div>
+        <div class="space-y-4 sm:space-y-8">
+          <p>
+            A origem e a estrutura do Inferno<br />
+            É a fúria de Deus -<br />
+            Ah, isto é bom!
+          </p>
+          <p>
+            Alegres, clamamos<br />
+            Aos Céus, estamos contentes.<br />
+            Pela Dies Irae.
+          </p>
+          <p>
+            Podemos lançar nosso napalm,<br />
+            Podemos incendiar as casas,<br />
+            Nos rejubilamos com o Ódio do Pai.
+          </p>
+          <p>
+            Arrazemos, queimamos, destruamos,<br />
+            Seja completo nosso hino à Morte,<br />
+            Dancemos com Ela,
+          </p>
+          <p>
+            Cortemo-nos em pedaços.<br />
+            Façamos os malditos<br />
+            Ainda mais desesperados -
+          </p>
+          <p>
+            É próprio assim cumprir,<br />
+            Pois nenhuma alma condenada jamais retornará<br />
+            Ao grande Coração de Deus.
+          </p>
+          <p>
+            São muito bonitos,<br />
+            Este e o Outro Mundo.<br />
+            Há sempre alguma coisa a fazer.
+          </p>
+          <p>
+            Lindamente se encontram,<br />
+            O Demônio, Ele e Nós.
+          </p>
         </div>
       </div>
     </div>

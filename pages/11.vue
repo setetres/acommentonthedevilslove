@@ -8,134 +8,106 @@
       relative
     "
   >
-    <div class="max-w-6xl">
-      <div class="px-4 sm:px-8 lg:px-32">
+    <h2
+      class="
+        text-3xl
+        sm:text-4xl
+        text-center
+        font-extrabold
+        tracking-tight
+        text-gray-900
+      "
+    >
+      Ⅺ
+    </h2>
+    <img
+      alt="Ⅺ"
+      src="~/assets/images/11.png"
+      class="w-full rounded-2xl pointer-events-none my-8"
+    />
+    <div class="max-w-6xl px-4 sm:px-8 lg:px-32 text-lg sm:text-xl">
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-8 leading-7 sm:leading-8">
         <div class="space-y-4 sm:space-y-8">
-          <h1>
-            <span
-              class="
-                block
-                text-base text-center text-purple-600
-                font-bold
-                tracking-wide
-              "
-              >A comment on the Devil's Love</span
-            >
-            <span
-              class="
-                mt-2
-                block
-                text-2xl text-center
-                leading-6
-                sm:leading-7
-                lg:leading-8
-                font-extrabold
-                tracking-tight
-                text-gray-900
-                sm:text-3xl
-                lg:text-4xl
-              "
-            >
-              Ⅺ
-            </span>
-          </h1>
+          <p>
+            Hail, Margarita!<br />
+            Hail, my lost soul!<br />
+            Hail, devilish self!
+          </p>
+          <p>
+            Earthy body, seductress,<br />
+            Burial of my hopes<br />
+            In the white dust of your breast.
+          </p>
+          <p>
+            My roots in your flesh,<br />
+            My birth in your faith.<br />
+            Hail, Devil's sister!
+          </p>
+          <p>
+            Hail, the purity of my damnation -<br />
+            Our sinful beauty,<br />
+            God's offspring!
+          </p>
+          <p>
+            Call me into your arms,<br />
+            You, Father's beloved child -<br />
+            However, a drop of your love is still mine.
+          </p>
+          <p>
+            Despite my heart throbbing<br />
+            In Satan's body.<br />
+            Despite that.
+          </p>
+          <p>
+            How strongly we need<br />
+            Such a drop of love -<br />
+            The Devil's belonging.
+          </p>
+          <p>
+            Hail, Margarita,<br />
+            Sweet one!
+          </p>
         </div>
-      </div>
-    </div>
-    <div class="p-4 sm:p-8 lg:p-16">
-      <img
-        alt="Ⅺ"
-        src="~/assets/images/11.png"
-        class="w-full rounded-2xl pointer-events-none"
-      />
-    </div>
-    <div class="max-w-6xl">
-      <div class="px-4 sm:px-8 lg:px-32">
-        <div class="text-base sm:text-lg lg:text-xl space-y-4 sm:space-y-8">
-          <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
-            <div class="space-y-4 sm:space-y-8">
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Hail, Margarita!<br />
-                Hail, my lost soul!<br />
-                Hail, devilish self!
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Earthy body, seductress,<br />
-                Burial of my hopes<br />
-                In the white dust of your breast.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                My roots in your flesh,<br />
-                My birth in your faith.<br />
-                Hail, Devil's sister!
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Hail, the purity of my damnation -<br />
-                Our sinful beauty,<br />
-                God's offspring!
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Call me into your arms,<br />
-                You, Father's beloved child -<br />
-                However, a drop of your love is still mine.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Despite my heart throbbing<br />
-                In Satan's body.<br />
-                Despite that.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                How strongly we need<br />
-                Such a drop of love -<br />
-                The Devil's belonging.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Hail, Margarita,<br />
-                Sweet one!
-              </p>
-            </div>
-            <div class="space-y-4 sm:space-y-8">
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Salve, Margarita!<br />
-                Salve, minha alma perdida!<br />
-                Salve, ego demoníaco!
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Corpo térreo, sedutora,<br />
-                Tumba de minhas esperanças<br />
-                Na branca areia de seu seio.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Minhas raízes em sua carne,<br />
-                Meu nascimento em sua fé.<br />
-                Salve, irmã do Demônio!
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Salve, pureza de minha danação -<br />
-                Nossa pecadora beleza,<br />
-                Fruto de Deus!
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Chame-me em seus braços,<br />
-                Você, amada criança do Pai -<br />
-                Porém, uma gota de seu amor ainda é minha.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Apesar de meu coração pulsar<br />
-                No corpo de Satã.<br />
-                Apesar disso.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Quão fortemente nós precisamos<br />
-                De tal gota do amor -<br />
-                Pertence ao Demônio.
-              </p>
-              <p class="leading-6 sm:leading-7 lg:leading-8">
-                Salve, Margarita,<br />
-                Doce encanto!
-              </p>
-            </div>
-          </div>
+        <div class="space-y-4 sm:space-y-8">
+          <p>
+            Salve, Margarita!<br />
+            Salve, minha alma perdida!<br />
+            Salve, ego demoníaco!
+          </p>
+          <p>
+            Corpo térreo, sedutora,<br />
+            Tumba de minhas esperanças<br />
+            Na branca areia de seu seio.
+          </p>
+          <p>
+            Minhas raízes em sua carne,<br />
+            Meu nascimento em sua fé.<br />
+            Salve, irmã do Demônio!
+          </p>
+          <p>
+            Salve, pureza de minha danação -<br />
+            Nossa pecadora beleza,<br />
+            Fruto de Deus!
+          </p>
+          <p>
+            Chame-me em seus braços,<br />
+            Você, amada criança do Pai -<br />
+            Porém, uma gota de seu amor ainda é minha.
+          </p>
+          <p>
+            Apesar de meu coração pulsar<br />
+            No corpo de Satã.<br />
+            Apesar disso.
+          </p>
+          <p>
+            Quão fortemente nós precisamos<br />
+            De tal gota do amor -<br />
+            Pertence ao Demônio.
+          </p>
+          <p>
+            Salve, Margarita,<br />
+            Doce encanto!
+          </p>
         </div>
       </div>
     </div>
