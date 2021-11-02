@@ -58,7 +58,7 @@
           <p>
             Quem em meu ventre<br />
             Acalenta<br />
-            Tão calmo sonho?
+            Tão calmo sono?
           </p>
           <p>
             Alimentarei meu filho<br />

@@ -67,13 +67,13 @@
           </p>
           <p>
             Nossa servidão terminou,<br />
-            Brinquemos com o Salvador..<br />
-            Ele beberá osso sangue,
+            Brinquemos com o Salvador.<br />
+            Ele beberá nosso sangue,
           </p>
           <p>
-            Comerá nossos miolos, trançará nossos membros-<br />
+            Comerá nossos miolos, trançará nossos membros -<br />
             Agora, estamos livres<br />
-            Das pesadas cadeias.
+            Das pesadas correntes.
           </p>
           <p>
             Qual é o gosto da nossa carne?<br />

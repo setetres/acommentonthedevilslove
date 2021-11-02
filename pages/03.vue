@@ -85,8 +85,8 @@
             Nos rejubilamos com o Ódio do Pai.
           </p>
           <p>
-            Arrazemos, queimamos, destruamos,<br />
-            Seja completo nosso hino à Morte,<br />
+            Vamos arrasar, queimar, destruir,<br />
+            Que seja completo nosso hino à Morte,<br />
             Dancemos com Ela,
           </p>
           <p>
@@ -95,7 +95,7 @@
             Ainda mais desesperados -
           </p>
           <p>
-            É próprio assim cumprir,<br />
+            É correto agir assim,<br />
             Pois nenhuma alma condenada jamais retornará<br />
             Ao grande Coração de Deus.
           </p>

@@ -75,7 +75,7 @@
             Salve, ego demoníaco!
           </p>
           <p>
-            Corpo térreo, sedutora,<br />
+            Corpo terreno, sedutora,<br />
             Tumba de minhas esperanças<br />
             Na branca areia de seu seio.
           </p>

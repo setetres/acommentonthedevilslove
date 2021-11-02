@@ -51,9 +51,9 @@
         </div>
         <div class="space-y-4 sm:space-y-8">
           <p>
-            Veja.<br />
-            Olhe a Eternidade,<br />
-            Procure pelo momento vencido.
+            Procure por ela.<br />
+            Procure pela Eternidade,<br />
+            Procure pelo momento conquistado.
           </p>
           <p>
             Quão fácil é ganhar Imortalidade.<br />

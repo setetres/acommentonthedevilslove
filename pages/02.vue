@@ -91,8 +91,8 @@
             De curtas dinâmicas.<br />
           </p>
           <p>
-            Será isso falha de ambição,<br />
-            Ou assim falar é pecador orgulhoso?
+            Será isso falta de ambição,<br />
+            Ou, por assim dizer, orgulho pecaminoso?
           </p>
         </div>
       </div>

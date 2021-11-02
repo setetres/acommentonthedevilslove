@@ -55,7 +55,7 @@
         <div class="space-y-4 sm:space-y-8">
           <p>
             Doce Fausto,<br />
-            O que você se propõe?<br />
+            Ao que você se propõe?<br />
             (Ele havia desafiado Deus<br />
             Rendendo-se
           </p>

@@ -61,13 +61,13 @@
           <p>
             Qual é o uso<br />
             Da beleza sem mácula?<br />
-            Não, eu o vejo, de fato<br />
-            Eu o sinto: trazer destruição<br />
+            Não, eu a vejo, de fato<br />
+            Eu a sinto: trazer destruição<br />
             Ao nosso meio.
           </p>
           <p>
             Quão desejável e tentadora<br />
-            Você parece, imagem de distâncias.<br />
+            Você parece, imagem distante.<br />
             Mas sinto falta das pequenas imperfeições<br />
             Para camuflarem a morte<br />
             Em seus frios olhos de carvão.

@@ -66,7 +66,7 @@
           </p>
           <p>
             A Ordem Cósmica. Somos sábios o suficiente<br />
-            Para entender este Mundo uma miragem<br />
+            Para entender este Mundo como uma miragem<br />
             Ou um modelo? Não me importa,
           </p>
           <p>
